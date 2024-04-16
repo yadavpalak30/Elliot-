@@ -1,0 +1,8 @@
+  <div className="w-[1252px] flex flex-row items-start justify-center py-0 px-5 box-border max-w-full">
+        <button className="cursor-pointer [border:none] py-[5.5px] px-6 bg-gray-300 rounded-lg flex flex-row items-start justify-start whitespace-nowrap hover:bg-dimgray-100">
+          <div className="relative text-base leading-[24px] font-medium font-text-sm-regular text-g-50 text-left">
+            Load More Testimonials
+          </div>
+        </button>
+        </div>
+     
